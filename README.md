@@ -1,2 +1,3 @@
 # Clothing_Web_application
-this repo is an the project online clothing web application using java jsp servlet
+this repo is about the online clothing web application.
+
